@@ -23,9 +23,9 @@ Every video default size is 854x480. OptiFlow detects automatically if the video
 - **Custom parameters**: Fine-tune resolution, frame rate and CRF values
 
 ### Roadmap
-- [] Real-time preview
-- [] Batch Processing
-- [] Auto HDR-2-SDR
+- [ ] Real-time preview
+- [ ] Batch Processing
+- [ ] Auto HDR-2-SDR
 
 ### Building
 We use `justfile` for managing dependencies and building more easily.
